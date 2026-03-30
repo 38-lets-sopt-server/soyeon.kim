@@ -1,5 +1,5 @@
 ---
-name: 과제
+name: 과제 템플릿
 about: 과제 구현
 title: "[ASSIGNMENT] N차 과제 구현"
 labels: ''
